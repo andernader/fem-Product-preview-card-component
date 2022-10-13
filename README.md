@@ -1,6 +1,6 @@
 # Frontend Mentor - Product preview card component
 
-![A screenshot of the final project](./design/screenshot.png)
+![A screenshot of the final project](./design/screenshot.jpg)
 
 ## Welcome! 👋
 
